@@ -8,8 +8,8 @@ Sphinx for Chinese with cppJieba
 ### 解压
 
 ```
-$ git clone https://github.com/eric1688/sphinx
-$ cd sphinx
+$ git clone https://github.com/vmvps/sphinx-jieba
+$ cd sphinx-jieba
 ```
 
 ### 编译（假设安装到/usr/local/sphinx目录，下文同）
